@@ -89,6 +89,7 @@
   [RishiKesh](https://github.com/Rishipan)
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
+- [Emilio Lee](https://github.com/emchillwave)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
 - [Armaan Soni](https://github.com/itsarmaansoni)
 - [Best wishes](https://github.com/SinusoidFunc)
